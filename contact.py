@@ -1,4 +1,5 @@
 #Python Program to create a repository of my classmate’s name and mobile number’s and search it out from the repository
+#This part of the code is contributed by Rohan, feel free to change it.
 
 # this function will contain the repository
 def initial_repository():
@@ -82,18 +83,14 @@ def display_all(pb):
 
 def thanks():
 # A simple gesture of courtesy towards the user to enhance user experience
-	print("********************************************************************\n")
 	print("Thank you for using our application.")
 	print("Please visit again!\n")
-	print("********************************************************************")
 
 
 
 # Main function code
-print("....................................................................\n")
-print("\t\t\tContact Repository\n\nHello dear user, welcome to our application")
+print("Contact Repository\n\nHello dear user, welcome to our application")
 print("You may now proceed to explore this repository\n")
-print("....................................................................")
 # This is solely meant for decoration purpose only.
 
 ch=1
